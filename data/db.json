@@ -7,7 +7,7 @@
       "model": "Camry",
       "price_per_day": "1000ETB",
       "availablity": true,
-      "image_url": "/images/toyota_camry.JPG"
+      "image_url": "/images/toyota_camry.jpg"
     },
     {
       "id": 2,
@@ -25,7 +25,7 @@
       "model": "Escape",
       "price_per_day": "1200ETB",
       "availablity": true,
-      "image_url": "/images/ford_escape.JPG"
+      "image_url": "/images/ford_escape.jpg"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "model": "Malibu",
       "price_per_day": "900ETB",
       "availablity": false,
-      "image_url": "/images/chevrolet_malibu.JPG"
+      "image_url": "/images/chevrolet_malibu.jpg"
     }
   ],
   "users": [
@@ -42,7 +42,7 @@
       "id": 1,
       "user": "Elizabeth Black",
       "phone": "0912345678",
-      "file": "/images/license1.JPG",
+      "file": "/images/license1.jpg",
       "status": 1,
       "car": "Economy",
       "pick": "11/24/2023",
@@ -54,7 +54,7 @@
       "car": "Luxury",
       "status": 2,
       "pick": "2023-11-15",
-      "file": "/images/license2.JPG",
+      "file": "/images/license2.jpg",
       "drop": "2023-11-30",
       "id": 2
     }
