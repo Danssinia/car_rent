@@ -1,0 +1,62 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Toyota",
+      "year": 2022,
+      "model": "Camry",
+      "price_per_day": "1000ETB",
+      "availablity": true,
+      "image_url": "/images/toyota_camry.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Honda",
+      "year": 2023,
+      "model": "Civic",
+      "price_per_day": "900ETB",
+      "availablity": true,
+      "image_url": "/images/honda_civic.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ford",
+      "year": 2022,
+      "model": "Escape",
+      "price_per_day": "1200ETB",
+      "availablity": true,
+      "image_url": "/images/ford_escape.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Chevrolet",
+      "year": 2023,
+      "model": "Malibu",
+      "price_per_day": "900ETB",
+      "availablity": false,
+      "image_url": "/images/chevrolet_malibu.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "user": "Elizabeth Black",
+      "phone": "0912345678",
+      "file": "/images/license1.jpg",
+      "status": 1,
+      "car": "Economy",
+      "pick": "11/24/2023",
+      "drop": "12/24/2023"
+    },
+    {
+      "user": "Monalisa Kudrov",
+      "phone": "0912345678",
+      "car": "Luxury",
+      "status": 2,
+      "pick": "2023-11-15",
+      "file": "/images/license2.jpg",
+      "drop": "2023-11-30",
+      "id": 2
+    }
+  ]
+}
